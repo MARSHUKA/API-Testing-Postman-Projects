@@ -8,7 +8,8 @@ API Testing Postman Projects
 https://restful-booker.herokuapp.com/booking
 
 Newman Report:
-![image](https://github.com/MARSHUKA/API-Testing-Postman-Projects/assets/129719844/aac19c11-41e2-4d98-95ea-434cc4b329a3)
+![image](https://github.com/MARSHUKA/API-Testing-Postman-Projects/assets/129719844/eb0df984-b301-4fc1-8986-84da14757784)
+
 
 
 
